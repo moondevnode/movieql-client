@@ -117,3 +117,10 @@ http://localhost:3000/
 
 > chrome dev tools
 - console 확인: Object data allMovies: Array(20)
+
+# styled
+
+> styled-components
+```
+npm i styled-components
+```
